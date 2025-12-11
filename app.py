@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1bVrsDRbw-djTzpdb7eeU9MUPNL6-v1gZ
 """
 
-!pip install streamlit yfinance pandas numpy plotly pyngrok
+pip install streamlit yfinance pandas numpy plotly pyngrok
 
 """
 Streamlit Stock Analysis & Live Signal App
